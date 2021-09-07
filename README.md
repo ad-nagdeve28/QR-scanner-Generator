@@ -2,6 +2,13 @@
 
 A new Flutter application.
 
+Screenshot 
+
+![QR Scanner](https://user-images.githubusercontent.com/78040814/132383112-16541247-af72-4f1f-ae15-6224a21b649a.jpeg)
+
+![QR Generator](https://user-images.githubusercontent.com/78040814/132383126-01d8b1cf-43ef-4a55-8f51-8cd85f3048d9.jpeg)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
